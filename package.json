@@ -1,0 +1,21 @@
+{
+  "name": "threejs-ocean",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  },
+  "dependencies": {
+    "@tweenjs/tween.js": "^23.1.2",
+    "ammo.js": "^0.0.10",
+    "cannon": "github:schteppe/cannon.js",
+    "dat.gui": "^0.7.9",
+    "three": "^0.163.0"
+  }
+}
